@@ -19,3 +19,28 @@ Political party affiliation was treated as a categorical variable indicating the
 
 Education level was used as the main explanatory variable, while political party affiliation was used as the outcome of interest. All variables were coded consistently across observations.
 
+Analysis
+The analysis was conducted using R. The script includes:
+
+Importing the dataset
+
+Cleaning and formatting variables
+
+Descriptive statistics summarizing education levels and party affiliation
+
+Appropriate statistical analysis to examine the relationship between education level and political party affiliation
+
+Visualizations to aid interpretation of results
+
+All analysis steps are clearly labeled in the script.
+
+Output
+
+Running the script produces summary statistics and visualizations that display patterns between governors’ education levels and their political party affiliations. All results are generated directly from the provided code and data.
+
+Software Requirements
+
+R
+Required packages are loaded directly within the script
+
+Required packages are loaded directly within the script
